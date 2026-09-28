@@ -1,0 +1,4 @@
+// Public defaults; keep developer-specific signing in the optional local file.
+PRODUCT_BUNDLE_IDENTIFIER = org.example.relayclipboard
+DEVELOPMENT_TEAM =
+#include? "Signing.local.xcconfig"

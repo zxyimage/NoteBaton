@@ -1,0 +1,6 @@
+/downloads/*.dmg
+  Content-Type: application/x-apple-diskimage
+  Content-Disposition: attachment
+
+/downloads/*.sha256
+  Content-Type: text/plain; charset=utf-8

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="网站隐私政策 · NoteBaton"><meta name="color-scheme" content="light"><title>网站隐私政策 · NoteBaton</title><meta name="robots" content="noindex"><link rel="alternate" hreflang="en" href="/privacy/"><link rel="alternate" hreflang="zh-CN" href="/privacy/zh-CN/"><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/legal.css"></head>
+<body><a class="skip-link" href="#policy">跳转到正文</a><header class="site-header"><a class="brand" href="/">接力 <span>NoteBaton</span></a><nav class="language-links" aria-label="语言"><a href="/privacy/zh-CN/" lang="zh-CN" aria-current="page">简体中文</a> · <a href="/privacy/" lang="en">English</a></nav><a href="https://github.com/zxyimage/NoteBaton" target="_blank" rel="noopener noreferrer">GitHub ↗</a></header>
+<div class="policy-layout"><nav aria-label="法律文档"><p class="eyebrow">隐私与条款</p><a href="/privacy/zh-CN/" aria-current="page">网站隐私政策</a>
+<a href="/terms/zh-CN/">网站使用条款</a>
+<a href="/app-privacy/zh-CN/">App 隐私政策</a>
+<a href="/support/zh-CN/">App 支持</a><a href="/third-party-notices.txt">第三方开源许可</a><a class="back-link" href="/">← 返回笔记</a></nav>
+<main id="policy" tabindex="-1"><p class="eyebrow">网站</p><aside class="draft-notice" role="note"><strong>政策草稿</strong><br>发布主体及公开联系方式待填写；此版本尚未准备好正式发布或提交 App Store。</aside><article><h1>网站隐私政策</h1>
+<p>生效日期：2026年9月26日</p>
+<p>接力（NoteBaton / Relay Clipboard）让浏览器连接保存在 iPhone 或 Mac 上的笔记。本政策说明 NoteBaton 官方网站如何处理信息。联系方式：<strong>隐私联系方式待填写</strong>。</p>
+<h2>1. 适用范围与服务选择</h2>
+<p>本政策适用于 Relay Clipboard 3.2 提供的本网站及其中转 API。iOS 与 macOS 客户端另有 <a href="/app-privacy/zh-CN/">App 隐私政策</a>。独立部署由各自的运营者负责，运营者应说明自己的身份及对数据处理方式所作的修改。开源项目维护者不会自动获得独立部署的数据。</p>
+<p>配对浏览器无需注册实名账号、提供邮箱或付款信息。你在设备上选择要授权的网站。已配对网站可以读取、新建、编辑和删除设备笔记。首先显示最近 10 条只是分页，并非访问权限的限制。</p>
+<h2>2. 处理的信息及用途</h2>
+<ul>
+<li><strong>笔记内容：</strong> 文字、链接、Markdown、笔记标识、时间、版本和编辑指令在发送端加密、接收端解密。中转服务转发密文以实现同步，不在应用数据库中持久保存笔记正文或消息密文。</li>
+<li><strong>配对与认证：</strong> 服务保存随机生成的设备和浏览器标识、认证密钥的哈希、配对授权和过期时间，用于认证连接及控制访问。这些标识不是手机硬件序列号或广告标识；认证密钥与笔记加密密钥不同。</li>
+<li><strong>连接与安全信息：</strong> 托管服务商处理 IP 地址和普通请求信息。中转服务将来源 IP 的哈希用于短期限流。路由标识、连接时间、消息大小、序列号和在线状态对中转服务可见。运行或安全日志可能包含请求元数据和错误，但应用不会有意记录笔记正文或加密密钥。</li>
+<li><strong>联系信息：</strong> 你联系运营者时，运营者会收到邮箱地址及你提供的内容，仅用于回复、调查问题或履行法律义务。除非必要且事先商定，请勿发送笔记、有效配对链接或密钥。</li>
+</ul>
+<p>本网站没有广告、营销 Cookie、第三方统计或追踪 SDK，不出售个人信息，也不为跨场景行为广告分享个人信息。</p>
+<h2>3. 加密与浏览器存储</h2>
+<p>同步使用 AES-256-GCM 端到端加密，公共部署同时使用 HTTPS/WSS。随机配对密钥通过二维码或完整配对字符串直接从浏览器传给手机。URL 片段中的密钥不会随 HTTP 请求发送。请将完整链接视为秘密。</p>
+<p>浏览器保存必要的 <code>relay_session</code> Cookie（通常最长有效 7 天），并在本网站的 IndexedDB 中保存不可导出的加密密钥及其过期时间，用于配对与重连，而非广告识别。所显示的笔记和未发送草稿保存在页面内存中，不存入持久化的浏览器笔记数据库。关闭或刷新页面可能丢失未发送的修改。浏览器、操作系统、扩展程序或已复制内容的行为不受本应用的存储控制。</p>
+<p>语言偏好保存在浏览器的本地存储中，用于下次访问时继续使用所选语言。</p>
+<p>中转 API 不接收笔记解密密钥，但你仍需信任网站代码及两端设备：遭到入侵或修改的网站、浏览器扩展或设备可以读取明文或使用已保存的密钥。当前协议不提供前向保密，也尚未接受独立密码学审计。</p>
+<h2>4. 服务商与披露</h2>
+<p>后端使用 Cloudflare Workers 和 Durable Objects。Cloudflare 为交付、保护及运行服务而处理网络流量和服务元数据，处理地点可能在你所在国家以外。参见 <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare 隐私政策</a>。运营者负责选择合适的服务商设置和合同保障，并说明新增的服务商。</p>
+<p>在法律要求或处理滥用、欺诈、安全事件所必需时，运营者也可能披露实际持有的信息。这不会使运营者获得解密笔记的能力。笔记或网站上的外部链接受目标服务自己的政策约束。</p>
+<h2>5. 保留与删除</h2>
+<p>配对请求 5 分钟后过期并安排清理；浏览器授权最长 7 天，也可以提前撤销。限流记录约 2 分钟后安排清理。基础设施调度可能延迟实际删除。提供的后端没有为设备身份记录设置自动过期，记录可能保留到运营者将其移除。托管日志和备份遵循运营者设置及服务商条款；配对短期过期不代表所有基础设施记录都已同时擦除。</p>
+<p>支持往来信息仅在合理处理请求、相关问题或履行法律义务所需的时间内保留。你可以通过上方联系方式请求删除。</p>
+<p>使用网站的“退出配对”，或在 App“配对与服务”中移除浏览器，可以终止访问。清除本网站 Cookie 和网站存储会移除本地凭证；在 App 撤销浏览器还会撤销服务端访问。清除浏览器数据不会删除设备笔记。删除笔记需在 App 或已授权且已连接的浏览器中操作。撤销访问无法收回他人已复制、下载或截取的内容。</p>
+<h2>6. 选择与请求</h2>
+<p>配对是可选的。你可以只在手机保存笔记，不连接中转服务；也可以断开服务、撤销浏览器访问或清除浏览器存储。根据适用法律，你可能享有访问、更正、删除、限制、反对处理、获取个人信息副本，以及向当地数据保护机构投诉的权利。有关本部署的请求请联系 <strong>隐私联系方式待填写</strong>。运营者可能需要足够信息来确认记录归属；不要发送加密密钥。运营者无法恢复或解密仅存于手机的笔记。</p>
+<p>本服务不面向 13 岁以下儿童，或当地法律规定的更高最低年龄以下的用户。如认为儿童提供了个人信息，请联系运营者。</p>
+<h2>7. 政策更新</h2>
+<p>更新会在此发布并注明新的生效日期。法律要求时，重大数据处理变更将在生效前说明，并另行取得所需同意。本政策说明数据处理方式，不会将可选处理变成使用无关功能的条件。</p>
+<h2>原生设备同步扩展</h2>
+<p>本服务还转发 iOS 与 macOS 设备间的加密同步消息，保存配对类型和期限元数据。原生设备授权最多 365 天，可提前撤销；网页授权仍最多 7 天。双方本机笔记会合并，设备保留独立副本；服务不保存这些副本，也不保存同步密文。设备删除会传播，撤销不能擦除已同步副本。详见 <a href="/app-privacy/zh-CN/">App 隐私政策</a>。</p>
+</article></main></div>
+<footer>NoteBaton · 笔记保存在手机，同步使用端到端加密。</footer></body></html>

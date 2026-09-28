@@ -1,0 +1,414 @@
+{
+  "MIT 许可 · 支持自部署": {
+    "zh-CN": "MIT 许可 · 支持自部署",
+    "en": "MIT licensed · Self-hostable"
+  },
+  "NoteBaton 首页": {
+    "zh-CN": "NoteBaton 首页",
+    "en": "NoteBaton home"
+  },
+  "iPhone 安装说明": {
+    "zh-CN": "iPhone 安装说明",
+    "en": "iPhone setup guide"
+  },
+  "一个想法，两个屏幕。": {
+    "zh-CN": "一个想法，两个屏幕。",
+    "en": "One idea. Two screens."
+  },
+  "下一句话，在这里继续。": {
+    "zh-CN": "下一句话，在这里继续。",
+    "en": "Your next sentence starts here."
+  },
+  "下一次旅行的灵感": {
+    "zh-CN": "下一次旅行的灵感",
+    "en": "Ideas for the next trip"
+  },
+  "不再给自己发消息，也不用在设备之间反复复制。": {
+    "zh-CN": "不再给自己发消息，也不用在设备之间反复复制。",
+    "en": "Skip the messages to yourself and the copy-and-paste between devices."
+  },
+  "中转服务": {
+    "zh-CN": "中转服务",
+    "en": "Relay"
+  },
+  "为开源而构建": {
+    "zh-CN": "为开源而构建",
+    "en": "Built for open source"
+  },
+  "主导航": {
+    "zh-CN": "主导航",
+    "en": "Main navigation"
+  },
+  "产品特点": {
+    "zh-CN": "产品特点",
+    "en": "Product highlights"
+  },
+  "仅转发密文": {
+    "zh-CN": "仅转发密文",
+    "en": "Ciphertext only"
+  },
+  "今天的灵感": {
+    "zh-CN": "今天的灵感",
+    "en": "Today's ideas"
+  },
+  "从随手记下，到继续完成。": {
+    "zh-CN": "从随手记下，到继续完成。",
+    "en": "From a quick thought to the next chapter."
+  },
+  "任何电脑浏览器": {
+    "zh-CN": "任何电脑浏览器",
+    "en": "Any desktop browser"
+  },
+  "你可能想了解": {
+    "zh-CN": "你可能想了解",
+    "en": "A few useful answers."
+  },
+  "你的浏览器": {
+    "zh-CN": "你的浏览器",
+    "en": "Your browser"
+  },
+  "你的笔记，不止一个屏幕。": {
+    "zh-CN": "你的笔记，不止一个屏幕。",
+    "en": "YOUR NOTES. BEYOND ONE SCREEN."
+  },
+  "使用你自己的域名和 Cloudflare 账号，掌握服务的运行方式。扫码连接自己的部署，无需重新编译 App。": {
+    "zh-CN": "使用你自己的域名和 Cloudflare 账号，掌握服务的运行方式。扫码连接自己的部署，无需重新编译 App。",
+    "en": "Use your own domain and Cloudflare account to control your service. Scan to connect your deployment without rebuilding the app."
+  },
+  "保存 · 加密": {
+    "zh-CN": "保存 · 加密",
+    "en": "Store · Encrypt"
+  },
+  "克隆完整仓库后": {
+    "zh-CN": "克隆完整仓库后",
+    "en": "After cloning the full repository"
+  },
+  "写一段文字，粘贴一个链接，或保存剪贴板里的灵感。输入时自动保存，不必惦记保存按钮。": {
+    "zh-CN": "写一段文字，粘贴一个链接，或保存剪贴板里的灵感。输入时自动保存，不必惦记保存按钮。",
+    "en": "Write a few lines, paste a link, or save a thought from your clipboard. Notes save as you type, so you can stay in the flow."
+  },
+  "刚刚": {
+    "zh-CN": "刚刚",
+    "en": "Just now"
+  },
+  "只有你的设备能解密": {
+    "zh-CN": "只有你的设备能解密",
+    "en": "Only your devices can decrypt"
+  },
+  "同一个 App，连接你选择的网站。你的工作方式，由你决定。": {
+    "zh-CN": "同一个 App，连接你选择的网站。你的工作方式，由你决定。",
+    "en": "One app. The website you choose. A workflow that belongs to you."
+  },
+  "在 GitHub 查看项目": {
+    "zh-CN": "在 GitHub 查看项目",
+    "en": "View project on GitHub"
+  },
+  "在手机记下": {
+    "zh-CN": "在手机记下",
+    "en": "Capture on your phone"
+  },
+  "在路上记下，回到桌前继续。": {
+    "zh-CN": "在路上记下，回到桌前继续。",
+    "en": "Capture it on the go. Continue at your desk."
+  },
+  "已连接演示": {
+    "zh-CN": "已连接演示",
+    "en": "Connected"
+  },
+  "开始之前": {
+    "zh-CN": "开始之前",
+    "en": "BEFORE YOU START"
+  },
+  "想法不必停在一个屏幕。": {
+    "zh-CN": "想法不必停在一个屏幕。",
+    "en": "IDEAS DESERVE ROOM TO GROW."
+  },
+  "想法自由流动，笔记由你保管。": {
+    "zh-CN": "想法自由流动，笔记由你保管。",
+    "en": "Let ideas travel. Keep your notes yours."
+  },
+  "所有权留在你手里。": {
+    "zh-CN": "所有权留在你手里。",
+    "en": "Still in your hands."
+  },
+  "手机与网页同步笔记的界面示意": {
+    "zh-CN": "手机与网页同步笔记的界面示意",
+    "en": "Illustration of notes moving between phone and browser"
+  },
+  "手机里的灵感，": {
+    "zh-CN": "手机里的灵感，",
+    "en": "Think on your phone."
+  },
+  "打开 Note": {
+    "zh-CN": "打开 Note",
+    "en": "Open Note"
+  },
+  "打开 Note，在 App 中扫描网页二维码，核对网址后授权。无需账号，也不需要记住另一组密码。": {
+    "zh-CN": "打开 Note，在 App 中扫描网页二维码，核对网址后授权。无需账号，也不需要记住另一组密码。",
+    "en": "Open Note, scan the QR code in the app, check the website address, and approve. No account or extra password to remember."
+  },
+  "扫码，让设备相遇": {
+    "zh-CN": "扫码，让设备相遇",
+    "en": "Scan to connect"
+  },
+  "把下一句话写完": {
+    "zh-CN": "把下一句话写完",
+    "en": "Write the next sentence"
+  },
+  "捕捉一闪而过的灵感": {
+    "zh-CN": "捕捉一闪而过的灵感",
+    "en": "Catch a fleeting thought"
+  },
+  "换个屏幕，接着写": {
+    "zh-CN": "换个屏幕，接着写",
+    "en": "Pick up on another screen"
+  },
+  "接力品牌副标": {
+    "zh-CN": "接力",
+    "en": ""
+  },
+  "无广告，无需提交邮箱或手机号": {
+    "zh-CN": "无广告，无需提交邮箱或手机号",
+    "en": "No ads. No email address or phone number required."
+  },
+  "无需把笔记交给一个云端账号": {
+    "zh-CN": "无需把笔记交给一个云端账号",
+    "en": "No cloud account holding your notes"
+  },
+  "无需注册账号": {
+    "zh-CN": "无需注册账号",
+    "en": "No account required"
+  },
+  "本机已保存": {
+    "zh-CN": "本机已保存",
+    "en": "Saved on this device"
+  },
+  "查看安装说明": {
+    "zh-CN": "查看安装说明",
+    "en": "See installation instructions"
+  },
+  "现在如何安装 iPhone App？": {
+    "zh-CN": "现在如何安装 iPhone App？",
+    "en": "How do I install the iPhone app?"
+  },
+  "用我们的服务，或搭建你自己的。": {
+    "zh-CN": "用我们的服务，或搭建你自己的。",
+    "en": "Use our service. Or make it your own."
+  },
+  "电脑上接着写。": {
+    "zh-CN": "电脑上接着写。",
+    "en": "Write at your desk."
+  },
+  "留住值得再读的链接": {
+    "zh-CN": "留住值得再读的链接",
+    "en": "Keep a link worth revisiting"
+  },
+  "目前通过 Xcode 构建安装，尚未上架 App Store 或 TestFlight。安装后可以先使用本机笔记，再选择网站配对。": {
+    "zh-CN": "目前通过 Xcode 构建安装，尚未上架 App Store 或 TestFlight。安装后可以先使用本机笔记，再选择网站配对。",
+    "en": "Build and install with Xcode for now; the app is not yet on the App Store or TestFlight. You can use local notes right away and pair with a website whenever you like."
+  },
+  "看看如何使用": {
+    "zh-CN": "看看如何使用",
+    "en": "See how it works"
+  },
+  "端到端加密": {
+    "zh-CN": "端到端加密",
+    "en": "End-to-end encrypted"
+  },
+  "端到端加密，配对后才同步。": {
+    "zh-CN": "端到端加密，配对后才同步。",
+    "en": "Encrypted end to end. Synced only after pairing."
+  },
+  "笔记有云备份吗？": {
+    "zh-CN": "笔记有云备份吗？",
+    "en": "Are my notes backed up to the cloud?"
+  },
+  "笔记本机保存": {
+    "zh-CN": "笔记本机保存",
+    "en": "Stored on your phone"
+  },
+  "笔记经过网络，": {
+    "zh-CN": "笔记经过网络，",
+    "en": "Across the internet."
+  },
+  "给想法一个去处。": {
+    "zh-CN": "给想法一个去处。",
+    "en": "A place for your ideas."
+  },
+  "自部署命令示例": {
+    "zh-CN": "自部署命令示例",
+    "en": "Example commands for self-hosting"
+  },
+  "解密 · 编辑": {
+    "zh-CN": "解密 · 编辑",
+    "en": "Decrypt · Edit"
+  },
+  "跳转到主要内容": {
+    "zh-CN": "跳转到主要内容",
+    "en": "Skip to main content"
+  },
+  "轻松接力": {
+    "zh-CN": "轻松接力",
+    "en": "A SIMPLE HANDOFF"
+  },
+  "选择权，也属于你": {
+    "zh-CN": "选择权，也属于你",
+    "en": "YOURS TO CHOOSE"
+  },
+  "部署到你的 Cloudflare": {
+    "zh-CN": "部署到你的 Cloudflare",
+    "en": "Run it on your Cloudflare"
+  },
+  "采用 MIT 许可，支持修改、分发与自部署。项目仓库即将公开，也欢迎一起让接力变得更好。": {
+    "zh-CN": "采用 MIT 许可，支持修改、分发与自部署。项目仓库即将公开，也欢迎一起让接力变得更好。",
+    "en": "MIT licensed for modification, distribution, and self-hosting. The repository will be public soon. Help us make the handoff even better."
+  },
+  "阅读自部署指南": {
+    "zh-CN": "阅读自部署指南",
+    "en": "Read the self-hosting guide"
+  },
+  "隐私，是默认设置": {
+    "zh-CN": "隐私，是默认设置",
+    "en": "PRIVATE BY DESIGN"
+  },
+  "需要注册账号或登录吗？": {
+    "zh-CN": "需要注册账号或登录吗？",
+    "en": "Do I need an account?"
+  },
+  "首页": {
+    "zh-CN": "首页",
+    "en": "Home"
+  },
+  "配对你的设备": {
+    "zh-CN": "配对你的设备",
+    "en": "Pair your device"
+  },
+  "把设备里的笔记，": {
+    "zh-CN": "把设备里的笔记，",
+    "en": "Bring your notes"
+  },
+  "用 iPhone 扫码，或在 Mac 粘贴配对链接。保持已配对的 App 在线，就能在这里阅读和编辑笔记。": {
+    "zh-CN": "用 iPhone 扫码，或在 Mac 粘贴配对链接。保持已配对的 App 在线，就能在这里阅读和编辑笔记。",
+    "en": "Scan with iPhone or paste the pairing link on Mac. Keep the paired app online to read and edit your notes here."
+  },
+  "NoteBaton 接力，让文字、链接和 Markdown 在 iPhone、Mac 与浏览器之间同步。无需注册，原生设备各有本地副本。": {
+    "zh-CN": "NoteBaton 接力，让文字、链接和 Markdown 在 iPhone、Mac 与浏览器之间同步。无需注册，原生设备各有本地副本。",
+    "en": "Sync notes, links, and Markdown across iPhone, Mac, and web. No account required. Each native device keeps a local copy."
+  },
+  "正文保存在已同步的 iPhone 与 Mac。内容在设备上加密，中转服务只转发密文，没有笔记解密密钥。": {
+    "zh-CN": "正文保存在已同步的 iPhone 与 Mac。内容在设备上加密，中转服务只转发密文，没有笔记解密密钥。",
+    "en": "Synced iPhones and Macs store your notes. Content is encrypted on-device; the relay forwards ciphertext without decryption keys."
+  },
+  "界面示意 · 正文保存在你的设备": {
+    "zh-CN": "界面示意 · 正文保存在你的设备",
+    "en": "Interface preview · Notes stay on your devices"
+  },
+  "让已配对的 iPhone App 保持前台，或 Mac App 保持运行，即可在网页阅读和编辑。原生设备间自动同步，支持离线编辑。": {
+    "zh-CN": "让已配对的 iPhone App 保持前台，或 Mac App 保持运行，即可在网页阅读和编辑。原生设备间自动同步，支持离线编辑。",
+    "en": "Keep the paired iPhone app in the foreground or the Mac app running to read and edit on the web. Native devices sync automatically and support offline editing."
+  },
+  "不需要。iPhone 和 Mac 各自保存笔记。网页或新设备展示配对码，由你在已有设备确认授权。": {
+    "zh-CN": "不需要。iPhone 和 Mac 各自保存笔记。网页或新设备展示配对码，由你在已有设备确认授权。",
+    "en": "No. iPhone and Mac each store notes locally. Authorize a browser or new device by confirming its pairing code on an existing device."
+  },
+  "已配对设备离线后，网页还能用吗？": {
+    "zh-CN": "已配对设备离线后，网页还能用吗？",
+    "en": "Does the web app work when its paired device is offline?"
+  },
+  "可以阅读当前页面已加载内容。保存修改和加载更多需要网页配对的设备在线：iPhone App 在前台，或 Mac App 保持运行。未同步网页草稿仅保留在本页。": {
+    "zh-CN": "可以阅读当前页面已加载内容。保存修改和加载更多需要网页配对的设备在线：iPhone App 在前台，或 Mac App 保持运行。未同步网页草稿仅保留在本页。",
+    "en": "You can read notes already loaded on this page. Saving and loading more require the paired device online: iPhone in the foreground, or the Mac app running. Unsynced web drafts stay only on this page."
+  },
+  "只配对可信网站与自己的设备。已配对设备离线时，网页仍可阅读本页已加载的笔记。": {
+    "zh-CN": "只配对可信网站与自己的设备。已配对设备离线时，网页仍可阅读本页已加载的笔记。",
+    "en": "Only pair trusted websites and your own devices. When the paired device is offline, loaded web notes remain readable."
+  },
+  "没有云备份。已同步的原生设备各有副本；若丢失所有副本，笔记无法找回。删除也会传播，请另行备份重要内容。": {
+    "zh-CN": "没有云备份。已同步的原生设备各有副本；若丢失所有副本，笔记无法找回。删除也会传播，请另行备份重要内容。",
+    "en": "There is no cloud backup. Each synced native device has a copy; losing all copies loses the notes. Deletions also propagate, so keep independent backups."
+  },
+  "你的设备": {
+    "zh-CN": "你的设备",
+    "en": "Your devices"
+  },
+  "设备授权，可随时撤销配对": {
+    "zh-CN": "设备授权，可随时撤销配对",
+    "en": "Authorize on-device and revoke pairings anytime"
+  },
+  "macOS 14 或更高版本 · Apple 芯片与 Intel · App 已通过 Apple 公证": {
+    "zh-CN": "macOS 14 或更高版本 · Apple 芯片与 Intel · App 已通过 Apple 公证",
+    "en": "macOS 14+ · Apple silicon & Intel · Apple-notarized app"
+  },
+  "打开 DMG，将 NoteBaton 拖入 Applications（应用程序）即可安装。": {
+    "zh-CN": "打开 DMG，将 NoteBaton 拖入 Applications（应用程序）即可安装。",
+    "en": "Open the DMG and drag NoteBaton into Applications to install."
+  },
+  "下载": {
+    "zh-CN": "下载",
+    "en": "Download"
+  },
+  "下载 NoteBaton": {
+    "zh-CN": "下载 NoteBaton",
+    "en": "Download NoteBaton"
+  },
+  "选择你的设备，让笔记在 iPhone、Mac 和浏览器之间接力。": {
+    "zh-CN": "选择你的设备，让笔记在 iPhone、Mac 和浏览器之间接力。",
+    "en": "Choose your device. Keep your notes moving between iPhone, Mac, and the web."
+  },
+  "随手记录文字、链接和灵感，离线也能继续写。": {
+    "zh-CN": "随手记录文字、链接和灵感，离线也能继续写。",
+    "en": "Capture notes, links, and ideas wherever you are. Keep writing offline."
+  },
+  "iPhone · iOS 17 或更高版本": {
+    "zh-CN": "iPhone · iOS 17 或更高版本",
+    "en": "iPhone · iOS 17 or later"
+  },
+  "在 App Store 下载": {
+    "zh-CN": "在 App Store 下载",
+    "en": "Download on the App Store"
+  },
+  "即将上线": {
+    "zh-CN": "即将上线",
+    "en": "Coming soon"
+  },
+  "从 App Store 安装 iPhone 客户端。": {
+    "zh-CN": "从 App Store 安装 iPhone 客户端。",
+    "en": "Get the iPhone app from the App Store."
+  },
+  "在 Mac 上专注书写，菜单栏常驻，随时接着写。": {
+    "zh-CN": "在 Mac 上专注书写，菜单栏常驻，随时接着写。",
+    "en": "Make room for focused writing, with your notes always a click away in the menu bar."
+  },
+  "macOS 14+ · Apple 芯片与 Intel": {
+    "zh-CN": "macOS 14+ · Apple 芯片与 Intel",
+    "en": "macOS 14+ · Apple silicon & Intel"
+  },
+  "App 已通过 Apple 公证": {
+    "zh-CN": "App 已通过 Apple 公证",
+    "en": "Apple-notarized app"
+  },
+  "打开浏览器，与 iPhone 或 Mac 配对，就能阅读和编辑笔记。": {
+    "zh-CN": "打开浏览器，与 iPhone 或 Mac 配对，就能阅读和编辑笔记。",
+    "en": "Pair your browser with an iPhone or Mac to read and edit your notes."
+  },
+  "无需安装 · 使用现代浏览器": {
+    "zh-CN": "无需安装 · 使用现代浏览器",
+    "en": "No installation · Modern browsers"
+  },
+  "打开网页版": {
+    "zh-CN": "打开网页版",
+    "en": "Open web app"
+  },
+  "同步时，请保持已配对的 App 在线。": {
+    "zh-CN": "同步时，请保持已配对的 App 在线。",
+    "en": "Keep your paired app online to sync."
+  },
+  "Mac 安装，只需拖一下。": {
+    "zh-CN": "Mac 安装，只需拖一下。",
+    "en": "One drag. Ready on your Mac."
+  },
+  "上架后可通过 App Store 下载。": {
+    "zh-CN": "上架后可通过 App Store 下载。",
+    "en": "Available on the App Store after release."
+  }
+}

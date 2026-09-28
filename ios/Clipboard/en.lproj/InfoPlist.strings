@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "NoteBaton";
+"NSCameraUsageDescription" = "Use the camera to scan pairing QR codes from a browser, iPhone, or Mac and set up note sync.";
+"NSLocalNetworkUsageDescription" = "Connect to the NoteBaton service you select on your local network to sync notes between paired devices and browsers.";

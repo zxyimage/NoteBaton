@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "NoteBaton";
+"NSCameraUsageDescription" = "使用相机扫描浏览器、iPhone 或 Mac 的配对二维码，建立笔记同步连接。";
+"NSLocalNetworkUsageDescription" = "连接你选择的局域网 NoteBaton 服务，在已配对的设备和浏览器之间同步笔记。";

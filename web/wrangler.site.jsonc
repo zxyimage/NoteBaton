@@ -1,0 +1,51 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "notebaton-site",
+  "main": "worker/site.ts",
+  "workers_dev": true,
+  "compatibility_date": "2026-09-25",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "assets": {
+    "directory": "./dist/site",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": true
+  },
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "CLIPBOARD",
+        "class_name": "ClipboardRoom"
+      },
+      {
+        "name": "RELAY",
+        "class_name": "RelayRoom"
+      },
+      {
+        "name": "PAIRING",
+        "class_name": "PairingRoom"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "ClipboardRoom"
+      ]
+    },
+    {
+      "tag": "v2-relay",
+      "new_sqlite_classes": [
+        "RelayRoom",
+        "PairingRoom"
+      ]
+    }
+  ],
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 0.1
+  }
+}

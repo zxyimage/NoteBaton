@@ -1,0 +1,2 @@
+# Fresh installations need no shared secrets.
+# Legacy migration secrets, if needed, belong in the ignored .dev.vars file.

@@ -1,0 +1,1422 @@
+{
+  "接到这里。": {
+    "zh-CN": "接到这里。",
+    "en": "Right here."
+  },
+  "配对": {
+    "zh-CN": "配对",
+    "en": "Pair"
+  },
+  "接力": {
+    "zh-CN": "接力",
+    "en": "NoteBaton"
+  },
+  "随手记，接着用": {
+    "zh-CN": "随手记，接着用",
+    "en": "Jot it down. Pick it up anywhere."
+  },
+  "随手记，\n接着用。": {
+    "zh-CN": "随手记，\n接着用。",
+    "en": "Jot it down.\nPick it up anywhere."
+  },
+  "笔记在手机。": {
+    "zh-CN": "笔记在手机。",
+    "en": "Notes on your phone."
+  },
+  "灵感，随处接力。": {
+    "zh-CN": "灵感，随处接力。",
+    "en": "Ideas, wherever you are."
+  },
+  "用手机连接这个网页，在电脑上接着阅读和书写。无需注册账号，笔记由你的手机保管。": {
+    "zh-CN": "用手机连接这个网页，在电脑上接着阅读和书写。无需注册账号，笔记由你的手机保管。",
+    "en": "Connect your phone to keep reading and writing on your computer. No account needed. Your phone keeps your notes."
+  },
+  "在手机打开「接力」": {
+    "zh-CN": "在手机打开「接力」",
+    "en": "Open NoteBaton on your phone"
+  },
+  "点击「配对网页」，扫码或粘贴完整配对链接": {
+    "zh-CN": "点击「配对网页」，扫码或粘贴完整配对链接",
+    "en": "Tap “Pair a browser”, then scan or paste the complete pairing link"
+  },
+  "保持 App 在前台，最近笔记即刻同步": {
+    "zh-CN": "保持 App 在前台，最近笔记即刻同步",
+    "en": "Keep the app open to sync your recent notes"
+  },
+  "连接你的手机": {
+    "zh-CN": "连接你的手机",
+    "en": "Connect your phone"
+  },
+  "确认手机显示的是此服务网址": {
+    "zh-CN": "确认手机显示的是此服务网址",
+    "en": "Check that your phone shows this service address"
+  },
+  "在接力 App 扫描此二维码配对": {
+    "zh-CN": "在接力 App 扫描此二维码配对",
+    "en": "Scan this code in NoteBaton to pair"
+  },
+  "复制失败，请扫码，或在手机填写上方网址和完整配对字符串": {
+    "zh-CN": "复制失败，请扫码，或在手机填写上方网址和完整配对字符串",
+    "en": "Could not copy. Scan the code, or enter the address and complete pairing string on your phone."
+  },
+  "链接已复制": {
+    "zh-CN": "链接已复制",
+    "en": "Link copied"
+  },
+  "复制完整配对链接": {
+    "zh-CN": "复制完整配对链接",
+    "en": "Copy pairing link"
+  },
+  "等待手机确认 · 5 分钟内有效": {
+    "zh-CN": "等待手机确认 · 5 分钟内有效",
+    "en": "Waiting for your phone · Expires in 5 minutes"
+  },
+  "配对字符串包含加密密钥，请勿分享。手动输入时，同时填写上方服务网址。": {
+    "zh-CN": "配对字符串包含加密密钥，请勿分享。手动输入时，同时填写上方服务网址。",
+    "en": "The pairing string contains an encryption key. Keep it private. For manual entry, also enter the service address above."
+  },
+  "正在生成…": {
+    "zh-CN": "正在生成…",
+    "en": "Generating…"
+  },
+  "显示配对码与二维码": {
+    "zh-CN": "显示配对码与二维码",
+    "en": "Show pairing code"
+  },
+  "端到端加密 · 中转 API 无法解密笔记。": {
+    "zh-CN": "端到端加密 · 中转 API 无法解密笔记。",
+    "en": "End-to-end encrypted · The relay cannot decrypt notes."
+  },
+  "手机在线时，可继续阅读本页已同步内容。": {
+    "zh-CN": "手机在线时，可继续阅读本页已同步内容。",
+    "en": "You can read synced notes while your phone is online."
+  },
+  "手机离线时，可继续阅读本页已同步内容。": {
+    "zh-CN": "手机离线时，可继续阅读本页已同步内容。",
+    "en": "When your phone is offline, you can still read notes already loaded here."
+  },
+  "配对即表示你同意": {
+    "zh-CN": "配对即表示你同意",
+    "en": "By pairing, you agree to the"
+  },
+  "。请阅读": {
+    "zh-CN": "。请阅读",
+    "en": ". Read the"
+  },
+  "。": {
+    "zh-CN": "。",
+    "en": "."
+  },
+  "网站使用条款": {
+    "zh-CN": "网站使用条款",
+    "en": "Web Terms of Use"
+  },
+  "网站隐私政策": {
+    "zh-CN": "网站隐私政策",
+    "en": "Web Privacy Policy"
+  },
+  "App 隐私政策": {
+    "zh-CN": "App 隐私政策",
+    "en": "App Privacy Policy"
+  },
+  "支持与帮助": {
+    "zh-CN": "支持与帮助",
+    "en": "Support"
+  },
+  "隐私政策": {
+    "zh-CN": "隐私政策",
+    "en": "Privacy Policy"
+  },
+  "隐私与条款": {
+    "zh-CN": "隐私与条款",
+    "en": "Privacy and terms"
+  },
+  "开源许可": {
+    "zh-CN": "开源许可",
+    "en": "Open-source licenses"
+  },
+  "即将开放": {
+    "zh-CN": "即将开放",
+    "en": "Coming soon"
+  },
+  "已保存到手机": {
+    "zh-CN": "已保存到手机",
+    "en": "Saved to phone"
+  },
+  "输入后自动保存到手机": {
+    "zh-CN": "输入后自动保存到手机",
+    "en": "Automatically saves to your phone as you type"
+  },
+  "草稿保留在本页": {
+    "zh-CN": "草稿保留在本页",
+    "en": "Draft kept on this page"
+  },
+  "请在手机上打开 App 后同步": {
+    "zh-CN": "请在手机上打开 App 后同步",
+    "en": "Open the app on your phone to sync."
+  },
+  "最多支持 100,000 个字符，内容已保留，请缩短后保存": {
+    "zh-CN": "最多支持 100,000 个字符，内容已保留，请缩短后保存",
+    "en": "Notes can contain up to 100,000 characters. Your text is kept here; shorten it to save."
+  },
+  "正在保存到手机…": {
+    "zh-CN": "正在保存到手机…",
+    "en": "Saving to phone…"
+  },
+  "手机未确认保存": {
+    "zh-CN": "手机未确认保存",
+    "en": "Your phone has not confirmed the save."
+  },
+  "尚未同步": {
+    "zh-CN": "尚未同步",
+    "en": "Not synced yet"
+  },
+  "返回": {
+    "zh-CN": "返回",
+    "en": "Back"
+  },
+  "编辑笔记": {
+    "zh-CN": "编辑笔记",
+    "en": "Edit note"
+  },
+  "新建笔记": {
+    "zh-CN": "新建笔记",
+    "en": "New note"
+  },
+  "保存": {
+    "zh-CN": "保存",
+    "en": "Save"
+  },
+  "编辑": {
+    "zh-CN": "编辑",
+    "en": "Edit"
+  },
+  "预览": {
+    "zh-CN": "预览",
+    "en": "Preview"
+  },
+  "笔记内容": {
+    "zh-CN": "笔记内容",
+    "en": "Note content"
+  },
+  "正在自动保存…": {
+    "zh-CN": "正在自动保存…",
+    "en": "Saving automatically…"
+  },
+  "支持 Markdown\n\n# 一个想法\n随手写下，自动保存。": {
+    "zh-CN": "支持 Markdown\n\n# 一个想法\n随手写下，自动保存。",
+    "en": "Markdown supported\n\n# An idea\nJot it down. Your changes save automatically."
+  },
+  "开始输入，预览会显示在这里。": {
+    "zh-CN": "开始输入，预览会显示在这里。",
+    "en": "Start writing to see a preview here."
+  },
+  "端到端加密已连接": {
+    "zh-CN": "端到端加密已连接",
+    "en": "Encrypted connection active"
+  },
+  "等待手机上线": {
+    "zh-CN": "等待手机上线",
+    "en": "Waiting for phone"
+  },
+  "正在连接": {
+    "zh-CN": "正在连接",
+    "en": "Connecting"
+  },
+  "退出配对": {
+    "zh-CN": "退出配对",
+    "en": "Exit pairing"
+  },
+  "我的笔记": {
+    "zh-CN": "我的笔记",
+    "en": "My notes"
+  },
+  "最近修改的笔记，接着用。": {
+    "zh-CN": "最近修改的笔记，接着用。",
+    "en": "Pick up where you left off."
+  },
+  "在手机上打开「接力」以同步": {
+    "zh-CN": "在手机上打开「接力」以同步",
+    "en": "Open NoteBaton on your phone to sync"
+  },
+  "已显示的内容仍可阅读。更新、编辑和加载更多需要手机 App 在前台。": {
+    "zh-CN": "已显示的内容仍可阅读。更新、编辑和加载更多需要手机 App 在前台。",
+    "en": "You can still read loaded notes. Keep the phone app open to update, edit, or load more."
+  },
+  "最近修改": {
+    "zh-CN": "最近修改",
+    "en": "Recently edited"
+  },
+  "刷新": {
+    "zh-CN": "刷新",
+    "en": "Refresh"
+  },
+  "正在从手机读取…": {
+    "zh-CN": "正在从手机读取…",
+    "en": "Loading from phone…"
+  },
+  "从第一条笔记开始": {
+    "zh-CN": "从第一条笔记开始",
+    "en": "Start with your first note"
+  },
+  "在手机里复制、输入或粘贴，内容会出现在这里。": {
+    "zh-CN": "在手机里复制、输入或粘贴，内容会出现在这里。",
+    "en": "Copy, write, or paste on your phone. Your notes will appear here."
+  },
+  "查看或编辑笔记": {
+    "zh-CN": "查看或编辑笔记",
+    "en": "View or edit note"
+  },
+  "查看全文 →": {
+    "zh-CN": "查看全文 →",
+    "en": "Read more →"
+  },
+  "确认删除": {
+    "zh-CN": "确认删除",
+    "en": "Delete note"
+  },
+  "取消": {
+    "zh-CN": "取消",
+    "en": "Cancel"
+  },
+  "复制笔记": {
+    "zh-CN": "复制笔记",
+    "en": "Copy note"
+  },
+  "已复制": {
+    "zh-CN": "已复制",
+    "en": "Copied"
+  },
+  "复制失败，请打开笔记后手动选择复制": {
+    "zh-CN": "复制失败，请打开笔记后手动选择复制",
+    "en": "Could not copy. Open the note, select the text, and copy it manually."
+  },
+  "删除笔记": {
+    "zh-CN": "删除笔记",
+    "en": "Delete note"
+  },
+  "加载更早的 10 条笔记": {
+    "zh-CN": "加载更早的 10 条笔记",
+    "en": "Load 10 older notes"
+  },
+  "加载中…": {
+    "zh-CN": "加载中…",
+    "en": "Loading…"
+  },
+  "已显示全部笔记": {
+    "zh-CN": "已显示全部笔记",
+    "en": "All notes loaded"
+  },
+  "端到端加密 · 笔记保存在手机": {
+    "zh-CN": "端到端加密 · 笔记保存在手机",
+    "en": "End-to-end encrypted · Notes stored on your phone"
+  },
+  "正在连接…": {
+    "zh-CN": "正在连接…",
+    "en": "Connecting…"
+  },
+  "连接已断开，内容暂未发送": {
+    "zh-CN": "连接已断开，内容暂未发送",
+    "en": "Disconnected. Your content has not been sent."
+  },
+  "手机暂未响应，草稿已保留，请打开手机 App": {
+    "zh-CN": "手机暂未响应，草稿已保留，请打开手机 App",
+    "en": "Your phone is not responding. Your draft is kept here. Open the app on your phone."
+  },
+  "连接已断开": {
+    "zh-CN": "连接已断开",
+    "en": "Disconnected"
+  },
+  "加密发送失败，草稿已保留": {
+    "zh-CN": "加密发送失败，草稿已保留",
+    "en": "Encrypted delivery failed. Your draft is kept here."
+  },
+  "加密验证失败，已停止同步，请重新连接或配对": {
+    "zh-CN": "加密验证失败，已停止同步，请重新连接或配对",
+    "en": "Encryption verification failed. Sync stopped. Reconnect or pair again."
+  },
+  "连接已断开，未确认保存的草稿已保留": {
+    "zh-CN": "连接已断开，未确认保存的草稿已保留",
+    "en": "Disconnected. Unconfirmed drafts are kept here."
+  },
+  "连接已关闭": {
+    "zh-CN": "连接已关闭",
+    "en": "Connection closed"
+  },
+  "连接失败，请重试": {
+    "zh-CN": "连接失败，请重试",
+    "en": "Could not connect. Please try again."
+  },
+  "浏览器无法保存加密密钥，请允许此网站存储数据": {
+    "zh-CN": "浏览器无法保存加密密钥，请允许此网站存储数据",
+    "en": "Your browser could not save the encryption key. Allow this website to store data."
+  },
+  "无法访问本地加密密钥，请重新配对": {
+    "zh-CN": "无法访问本地加密密钥，请重新配对",
+    "en": "Cannot access the local encryption key. Please pair again."
+  },
+  "暂时无法完成": {
+    "zh-CN": "暂时无法完成",
+    "en": "Could not complete the action"
+  },
+  "知道了": {
+    "zh-CN": "知道了",
+    "en": "OK"
+  },
+  "文字、链接和 Markdown。\n笔记留在手机，配对网页后实时同步。": {
+    "zh-CN": "文字、链接和 Markdown。\n笔记留在手机，配对网页后实时同步。",
+    "en": "Text, links, and Markdown.\nNotes stay on your phone and sync with paired browsers."
+  },
+  "打开 App 时会读取剪贴板，相同内容不会重复保存。iOS 可能会询问粘贴权限。": {
+    "zh-CN": "打开 App 时会读取剪贴板，相同内容不会重复保存。iOS 可能会询问粘贴权限。",
+    "en": "The app reads your clipboard when opened, without saving duplicates. iOS may ask for paste permission."
+  },
+  "笔记仅保存在此手机。卸载 App 会删除本地笔记，请保留重要内容的副本。": {
+    "zh-CN": "笔记仅保存在此手机。卸载 App 会删除本地笔记，请保留重要内容的副本。",
+    "en": "Notes are stored only on this phone. Uninstalling deletes them. Keep copies of important content."
+  },
+  "开始使用": {
+    "zh-CN": "开始使用",
+    "en": "Get started"
+  },
+  "正在迁移旧笔记…": {
+    "zh-CN": "正在迁移旧笔记…",
+    "en": "Importing older notes…"
+  },
+  "输入、粘贴或复制文字。\n笔记会自动保存到手机。": {
+    "zh-CN": "输入、粘贴或复制文字。\n笔记会自动保存到手机。",
+    "en": "Write, paste, or copy text.\nNotes save automatically on your phone."
+  },
+  "空白笔记": {
+    "zh-CN": "空白笔记",
+    "en": "Empty note"
+  },
+  "加载更多笔记": {
+    "zh-CN": "加载更多笔记",
+    "en": "Load more notes"
+  },
+  "笔记保存在此手机 · App 在前台时同步": {
+    "zh-CN": "笔记保存在此手机 · App 在前台时同步",
+    "en": "Stored on this phone · Syncs while the app is open"
+  },
+  "配对网页": {
+    "zh-CN": "配对网页",
+    "en": "Pair a browser"
+  },
+  "删除这条笔记？已配对网页也会移除。": {
+    "zh-CN": "删除这条笔记？已配对网页也会移除。",
+    "en": "Delete this note? It will also be removed from paired browsers."
+  },
+  "显示模式": {
+    "zh-CN": "显示模式",
+    "en": "Display mode"
+  },
+  "收起键盘": {
+    "zh-CN": "收起键盘",
+    "en": "Hide keyboard"
+  },
+  "使用旧版接力的账号密码，将历史笔记迁入这台手机。只有确认本地保存成功后，才会清除旧云端副本。": {
+    "zh-CN": "使用旧版接力的账号密码，将历史笔记迁入这台手机。只有确认本地保存成功后，才会清除旧云端副本。",
+    "en": "Use your old Relay Clipboard account to import notes to this phone. Cloud copies are removed only after the local import is confirmed."
+  },
+  "旧版账号": {
+    "zh-CN": "旧版账号",
+    "en": "Legacy username"
+  },
+  "旧版密码": {
+    "zh-CN": "旧版密码",
+    "en": "Legacy password"
+  },
+  "正在迁移…": {
+    "zh-CN": "正在迁移…",
+    "en": "Importing…"
+  },
+  "导入到此手机": {
+    "zh-CN": "导入到此手机",
+    "en": "Import to this phone"
+  },
+  "导入旧版笔记": {
+    "zh-CN": "导入旧版笔记",
+    "en": "Import legacy notes"
+  },
+  "扫描你自己网站上的二维码，或粘贴完整配对链接。App 会从链接识别网址，确认后才连接。": {
+    "zh-CN": "扫描你自己网站上的二维码，或粘贴完整配对链接。App 会从链接识别网址，确认后才连接。",
+    "en": "Scan a code on your website or paste a complete pairing link. The app identifies the service address and connects only after you confirm it."
+  },
+  "加密配对链接或完整配对字符串": {
+    "zh-CN": "加密配对链接或完整配对字符串",
+    "en": "Encrypted pairing link or complete pairing string"
+  },
+  "加密配对链接或配对字符串": {
+    "zh-CN": "加密配对链接或配对字符串",
+    "en": "Encrypted pairing link or string"
+  },
+  "扫描二维码": {
+    "zh-CN": "扫描二维码",
+    "en": "Scan QR code"
+  },
+  "检查配对网址": {
+    "zh-CN": "检查配对网址",
+    "en": "Review pairing address"
+  },
+  "连接成功": {
+    "zh-CN": "连接成功",
+    "en": "Connected"
+  },
+  "连接网页": {
+    "zh-CN": "连接网页",
+    "en": "Connect a browser"
+  },
+  "授权后，网页可以读取和编辑此手机的笔记。默认同步最近 10 条，滚动可加载更多。": {
+    "zh-CN": "授权后，网页可以读取和编辑此手机的笔记。默认同步最近 10 条，滚动可加载更多。",
+    "en": "Once authorized, the browser can read and edit this phone’s notes. The latest 10 load first; scroll to load more."
+  },
+  "https://你的域名": {
+    "zh-CN": "https://你的域名",
+    "en": "https://your-domain.example"
+  },
+  "服务网址": {
+    "zh-CN": "服务网址",
+    "en": "Service address"
+  },
+  "连接此服务": {
+    "zh-CN": "连接此服务",
+    "en": "Connect to this service"
+  },
+  "手动设置网址": {
+    "zh-CN": "手动设置网址",
+    "en": "Enter address manually"
+  },
+  "输入配对字符串时，请先填写它所属的网站。完整配对链接会使用链接里的网址。": {
+    "zh-CN": "输入配对字符串时，请先填写它所属的网站。完整配对链接会使用链接里的网址。",
+    "en": "For a pairing string, enter its service address first. A complete pairing link includes the address."
+  },
+  "当前同步服务": {
+    "zh-CN": "当前同步服务",
+    "en": "Current service"
+  },
+  "断开服务，使用本机模式": {
+    "zh-CN": "断开服务，使用本机模式",
+    "en": "Disconnect and use local mode"
+  },
+  "本机模式 · 笔记仍会自动保存": {
+    "zh-CN": "本机模式 · 笔记仍会自动保存",
+    "en": "Local mode · Notes still save automatically"
+  },
+  "已保存服务": {
+    "zh-CN": "已保存服务",
+    "en": "Saved services"
+  },
+  "一次只连接一个服务。切换不删除手机笔记，各服务的网页授权彼此独立。切回后，未过期的配对可继续使用。": {
+    "zh-CN": "一次只连接一个服务。切换不删除手机笔记，各服务的网页授权彼此独立。切回后，未过期的配对可继续使用。",
+    "en": "Connect to one service at a time. Switching keeps your phone’s notes. Each service has separate browser authorizations; unexpired pairings work when you return."
+  },
+  "此服务的已配对网页": {
+    "zh-CN": "此服务的已配对网页",
+    "en": "Browsers paired with this service"
+  },
+  "还没有配对网页": {
+    "zh-CN": "还没有配对网页",
+    "en": "No browsers paired yet"
+  },
+  "移除": {
+    "zh-CN": "移除",
+    "en": "Remove"
+  },
+  "保持 App 在前台以同步。笔记端到端加密，中转 API 只处理密文。配对链接包含密钥，请勿分享。网页本身仍需来自你信任的部署。网页配对 7 天后到期。": {
+    "zh-CN": "保持 App 在前台以同步。笔记端到端加密，中转 API 只处理密文。配对链接包含密钥，请勿分享。网页本身仍需来自你信任的部署。网页配对 7 天后到期。",
+    "en": "Keep the app open to sync. Notes are end-to-end encrypted; the relay only handles ciphertext. Pairing links contain keys—keep them private. Use a website you trust. Browser pairings expire after 7 days."
+  },
+  "第三方开源许可": {
+    "zh-CN": "第三方开源许可",
+    "en": "Third-party licenses"
+  },
+  "配对与服务": {
+    "zh-CN": "配对与服务",
+    "en": "Pairing & Services"
+  },
+  "扫描网页配对码": {
+    "zh-CN": "扫描网页配对码",
+    "en": "Scan browser pairing code"
+  },
+  "确认同步服务": {
+    "zh-CN": "确认同步服务",
+    "en": "Confirm service"
+  },
+  "连接服务": {
+    "zh-CN": "连接服务",
+    "en": "Connect"
+  },
+  "授权此网页": {
+    "zh-CN": "授权此网页",
+    "en": "Authorize browser"
+  },
+  "连接后，此服务上已配对的网页可以同步此手机的笔记。": {
+    "zh-CN": "连接后，此服务上已配对的网页可以同步此手机的笔记。",
+    "en": "Paired browsers on this service will be able to sync this phone’s notes."
+  },
+  "授权此网页读取和编辑此手机的笔记。": {
+    "zh-CN": "授权此网页读取和编辑此手机的笔记。",
+    "en": "Authorize this browser to read and edit this phone’s notes."
+  },
+  "切换将断开当前服务，手机笔记会保留。": {
+    "zh-CN": "切换将断开当前服务，手机笔记会保留。",
+    "en": "Switching disconnects the current service. Your phone’s notes are kept."
+  },
+  "移除此网页的访问权限？": {
+    "zh-CN": "移除此网页的访问权限？",
+    "en": "Remove this browser’s access?"
+  },
+  "移除配对": {
+    "zh-CN": "移除配对",
+    "en": "Remove pairing"
+  },
+  "完成": {
+    "zh-CN": "完成",
+    "en": "Done"
+  },
+  "许可文件不可用，请重新构建 App。": {
+    "zh-CN": "许可文件不可用，请重新构建 App。",
+    "en": "The license file is unavailable. Please rebuild the app."
+  },
+  "相机暂不可用，可以返回手动输入配对码": {
+    "zh-CN": "相机暂不可用，可以返回手动输入配对码",
+    "en": "The camera is unavailable. Go back to enter the pairing link manually."
+  },
+  "请在系统设置中允许接力使用相机，或返回手动输入配对码": {
+    "zh-CN": "请在系统设置中允许接力使用相机，或返回手动输入配对码",
+    "en": "Allow NoteBaton to use the camera in Settings, or go back to enter the pairing link manually."
+  },
+  "同步已暂停": {
+    "zh-CN": "同步已暂停",
+    "en": "Sync paused"
+  },
+  "本机模式 · 尚未连接服务": {
+    "zh-CN": "本机模式 · 尚未连接服务",
+    "en": "Local mode · No service connected"
+  },
+  "本机模式": {
+    "zh-CN": "本机模式",
+    "en": "Local mode"
+  },
+  "手机在前台时同步": {
+    "zh-CN": "手机在前台时同步",
+    "en": "Syncs while the app is open"
+  },
+  "已切换同步服务": {
+    "zh-CN": "已切换同步服务",
+    "en": "Service switched"
+  },
+  "网页已配对": {
+    "zh-CN": "网页已配对",
+    "en": "Browser paired"
+  },
+  "已配对网页": {
+    "zh-CN": "已配对网页",
+    "en": "Paired browser"
+  },
+  "剪贴板超过 100,000 个字符，未自动导入": {
+    "zh-CN": "剪贴板超过 100,000 个字符，未自动导入",
+    "en": "Clipboard exceeds 100,000 characters and was not imported."
+  },
+  "发现配对链接，请到「配对网页」确认服务网址": {
+    "zh-CN": "发现配对链接，请到「配对网页」确认服务网址",
+    "en": "Pairing link found. Open “Pair a browser” to confirm the address."
+  },
+  "剪贴板已保存到手机": {
+    "zh-CN": "剪贴板已保存到手机",
+    "en": "Clipboard saved to phone"
+  },
+  "端到端加密 · 已连接": {
+    "zh-CN": "端到端加密 · 已连接",
+    "en": "End-to-end encrypted · Connected"
+  },
+  "等待兼容服务或网络 · 笔记已存本机": {
+    "zh-CN": "等待兼容服务或网络 · 笔记已存本机",
+    "en": "Waiting for a compatible service or network · Notes saved locally"
+  },
+  "网页加密验证失败，已停止该连接；请重新连接或配对": {
+    "zh-CN": "网页加密验证失败，已停止该连接；请重新连接或配对",
+    "en": "Browser encryption verification failed. The connection stopped; reconnect or pair again."
+  },
+  "旧笔记已迁移到手机，云端副本已清除": {
+    "zh-CN": "旧笔记已迁移到手机，云端副本已清除",
+    "en": "Older notes imported to this phone. Cloud copies removed."
+  },
+  "本地存储暂不可用，请重启 App 后重试": {
+    "zh-CN": "本地存储暂不可用，请重启 App 后重试",
+    "en": "Local storage is unavailable. Restart the app and try again."
+  },
+  "本地存储暂不可用，输入已保留": {
+    "zh-CN": "本地存储暂不可用，输入已保留",
+    "en": "Local storage is unavailable. Your input is kept here."
+  },
+  "无法安全保存登录信息，请重试": {
+    "zh-CN": "无法安全保存登录信息，请重试",
+    "en": "Could not securely save login details. Try again."
+  },
+  "无法读取服务凭证，请解锁手机后重试": {
+    "zh-CN": "无法读取服务凭证，请解锁手机后重试",
+    "en": "Could not read service credentials. Unlock your phone and try again."
+  },
+  "无法安全保存服务凭证，请重试": {
+    "zh-CN": "无法安全保存服务凭证，请重试",
+    "en": "Could not securely save service credentials. Try again."
+  },
+  "无法创建设备身份，请重试": {
+    "zh-CN": "无法创建设备身份，请重试",
+    "en": "Could not create a device identity. Try again."
+  },
+  "无法读取加密密钥，请解锁手机后重试": {
+    "zh-CN": "无法读取加密密钥，请解锁手机后重试",
+    "en": "Could not read the encryption key. Unlock your phone and try again."
+  },
+  "无法保存加密密钥，请重新配对": {
+    "zh-CN": "无法保存加密密钥，请重新配对",
+    "en": "Could not save the encryption key. Pair again."
+  },
+  "此网址没有返回兼容的接力服务信息，请检查部署": {
+    "zh-CN": "此网址没有返回兼容的接力服务信息，请检查部署",
+    "en": "This address did not return a compatible NoteBaton service. Check the deployment."
+  },
+  "此服务未支持当前端到端加密协议，请更新部署后重新配对": {
+    "zh-CN": "此服务未支持当前端到端加密协议，请更新部署后重新配对",
+    "en": "This service does not support the current encryption protocol. Update it and pair again."
+  },
+  "暂时无法连接，输入已保留，请恢复网络后重试": {
+    "zh-CN": "暂时无法连接，输入已保留，请恢复网络后重试",
+    "en": "Could not connect. Your input is kept here. Restore your connection and try again."
+  },
+  "服务器响应不正确": {
+    "zh-CN": "服务器响应不正确",
+    "en": "Invalid server response"
+  },
+  "服务网址发生跳转，请使用最终的 HTTPS 网址重新配对": {
+    "zh-CN": "服务网址发生跳转，请使用最终的 HTTPS 网址重新配对",
+    "en": "The service redirects to another address. Pair again using the final HTTPS address."
+  },
+  "请求失败，请重试": {
+    "zh-CN": "请求失败，请重试",
+    "en": "Request failed. Please try again."
+  },
+  "服务器响应为空": {
+    "zh-CN": "服务器响应为空",
+    "en": "Empty server response"
+  },
+  "请输入完整的服务网址，例如 https://你的域名，不包含路径": {
+    "zh-CN": "请输入完整的服务网址，例如 https://你的域名，不包含路径",
+    "en": "Enter a complete service address such as https://your-domain.example, without a path."
+  },
+  "服务网址必须使用 HTTPS": {
+    "zh-CN": "服务网址必须使用 HTTPS",
+    "en": "The service address must use HTTPS."
+  },
+  "服务网址不正确": {
+    "zh-CN": "服务网址不正确",
+    "en": "Invalid service address"
+  },
+  "旧短码不包含加密密钥，请重新生成并使用完整加密配对链接或配对字符串": {
+    "zh-CN": "旧短码不包含加密密钥，请重新生成并使用完整加密配对链接或配对字符串",
+    "en": "Old short codes do not include an encryption key. Generate a new code and use the complete encrypted link or string."
+  },
+  "请粘贴网页复制的完整配对链接；只输入短码时，还需填写服务网址": {
+    "zh-CN": "请粘贴网页复制的完整配对链接；只输入短码时，还需填写服务网址",
+    "en": "Paste the complete pairing link from the website. A pairing string also needs the service address."
+  },
+  "配对链接格式或版本不受支持，请重新生成": {
+    "zh-CN": "配对链接格式或版本不受支持，请重新生成",
+    "en": "Unsupported pairing link format or version. Generate a new one."
+  },
+  "手机本地存储失败，内容仍在编辑框，请检查剩余空间后重试": {
+    "zh-CN": "手机本地存储失败，内容仍在编辑框，请检查剩余空间后重试",
+    "en": "Could not save on your phone. Your text remains in the editor. Check available storage and try again."
+  },
+  "笔记最多支持 100,000 个字符": {
+    "zh-CN": "笔记最多支持 100,000 个字符",
+    "en": "Notes can contain up to 100,000 characters."
+  },
+  "这条笔记已删除，当前输入已保留，请复制到新笔记": {
+    "zh-CN": "这条笔记已删除，当前输入已保留，请复制到新笔记",
+    "en": "This note was deleted. Your input is kept here; copy it to a new note."
+  },
+  "这条笔记已在其他设备修改。当前输入已保留，请复制后返回查看最新版本": {
+    "zh-CN": "这条笔记已在其他设备修改。当前输入已保留，请复制后返回查看最新版本",
+    "en": "This note changed on another device. Your input is kept here; copy it, then go back to view the latest version."
+  },
+  "请输入笔记内容": {
+    "zh-CN": "请输入笔记内容",
+    "en": "Enter some note content."
+  },
+  "笔记已更新，请刷新后再删除": {
+    "zh-CN": "笔记已更新，请刷新后再删除",
+    "en": "This note changed. Refresh before deleting it."
+  },
+  "笔记版本不正确": {
+    "zh-CN": "笔记版本不正确",
+    "en": "Invalid note revision"
+  },
+  "笔记标识不正确": {
+    "zh-CN": "笔记标识不正确",
+    "en": "Invalid note identifier"
+  },
+  "分页格式不正确": {
+    "zh-CN": "分页格式不正确",
+    "en": "Invalid pagination format"
+  },
+  "笔记格式不正确": {
+    "zh-CN": "笔记格式不正确",
+    "en": "Invalid note format"
+  },
+  "未知操作": {
+    "zh-CN": "未知操作",
+    "en": "Unknown action"
+  },
+  "请使用 JSON 请求": {
+    "zh-CN": "请使用 JSON 请求",
+    "en": "Use a JSON request."
+  },
+  "请求内容过长": {
+    "zh-CN": "请求内容过长",
+    "en": "Request content is too long."
+  },
+  "请求格式不正确": {
+    "zh-CN": "请求格式不正确",
+    "en": "Invalid request format"
+  },
+  "请求来源不受信任": {
+    "zh-CN": "请求来源不受信任",
+    "en": "Untrusted request origin"
+  },
+  "请求方式不正确": {
+    "zh-CN": "请求方式不正确",
+    "en": "Invalid request method"
+  },
+  "请更新客户端并重新配对，本站要求端到端加密": {
+    "zh-CN": "请更新客户端并重新配对，本站要求端到端加密",
+    "en": "Update your client and pair again. This service requires end-to-end encryption."
+  },
+  "请更新网页以使用端到端加密": {
+    "zh-CN": "请更新网页以使用端到端加密",
+    "en": "Refresh the website to use end-to-end encryption."
+  },
+  "设备身份不正确": {
+    "zh-CN": "设备身份不正确",
+    "en": "Invalid device identity"
+  },
+  "设备身份不匹配": {
+    "zh-CN": "设备身份不匹配",
+    "en": "Device identity does not match."
+  },
+  "配对信息不正确": {
+    "zh-CN": "配对信息不正确",
+    "en": "Invalid pairing information"
+  },
+  "操作过于频繁，请稍后重试": {
+    "zh-CN": "操作过于频繁，请稍后重试",
+    "en": "Too many requests. Please try again later."
+  },
+  "请重新生成配对码": {
+    "zh-CN": "请重新生成配对码",
+    "en": "Generate a new pairing code."
+  },
+  "配对码已过期，请重新生成": {
+    "zh-CN": "配对码已过期，请重新生成",
+    "en": "Pairing code expired. Generate a new one."
+  },
+  "配对已失效，请重新配对": {
+    "zh-CN": "配对已失效，请重新配对",
+    "en": "Pairing expired. Please pair again."
+  },
+  "配对已失效": {
+    "zh-CN": "配对已失效",
+    "en": "Pairing expired"
+  },
+  "请在手机上确认配对": {
+    "zh-CN": "请在手机上确认配对",
+    "en": "Confirm pairing on your phone."
+  },
+  "请更新 App 以使用端到端加密": {
+    "zh-CN": "请更新 App 以使用端到端加密",
+    "en": "Update the app to use end-to-end encryption."
+  },
+  "配对码格式不正确": {
+    "zh-CN": "配对码格式不正确",
+    "en": "Invalid pairing code format"
+  },
+  "已配对网页过多，请先移除旧设备": {
+    "zh-CN": "已配对网页过多，请先移除旧设备",
+    "en": "Too many paired browsers. Remove an old pairing first."
+  },
+  "配对码已过期或已被使用": {
+    "zh-CN": "配对码已过期或已被使用",
+    "en": "Pairing code expired or already used."
+  },
+  "仅手机可管理配对": {
+    "zh-CN": "仅手机可管理配对",
+    "en": "Only the phone can manage pairings."
+  },
+  "无法移除此配对": {
+    "zh-CN": "无法移除此配对",
+    "en": "Could not remove this pairing."
+  },
+  "请在手机管理网页配对": {
+    "zh-CN": "请在手机管理网页配对",
+    "en": "Manage browser pairings on your phone."
+  },
+  "接口不存在": {
+    "zh-CN": "接口不存在",
+    "en": "API endpoint not found"
+  },
+  "服务暂时不可用，请重试": {
+    "zh-CN": "服务暂时不可用，请重试",
+    "en": "Service temporarily unavailable. Please try again."
+  },
+  "请先使用手机配对": {
+    "zh-CN": "请先使用手机配对",
+    "en": "Pair with your phone first."
+  },
+  "连接过多": {
+    "zh-CN": "连接过多",
+    "en": "Too many connections"
+  },
+  "分页参数不正确": {
+    "zh-CN": "分页参数不正确",
+    "en": "Invalid pagination parameters"
+  },
+  "请求内容不能为空": {
+    "zh-CN": "请求内容不能为空",
+    "en": "Request content cannot be empty."
+  },
+  "旧版服务仅支持迁移": {
+    "zh-CN": "旧版服务仅支持迁移",
+    "en": "This legacy service only supports importing notes."
+  },
+  "旧版登录已过期，无法自动迁移": {
+    "zh-CN": "旧版登录已过期，无法自动迁移",
+    "en": "Legacy login expired. Automatic import is unavailable."
+  },
+  "旧版账号无效或尝试过于频繁": {
+    "zh-CN": "旧版账号无效或尝试过于频繁",
+    "en": "Invalid legacy account or too many attempts."
+  },
+  "旧笔记尚未全部保存到手机": {
+    "zh-CN": "旧笔记尚未全部保存到手机",
+    "en": "Some older notes have not been saved to your phone yet."
+  },
+  "旧笔记迁移暂时不可用": {
+    "zh-CN": "旧笔记迁移暂时不可用",
+    "en": "Legacy import is temporarily unavailable."
+  },
+  "服务端账号尚未配置完成": {
+    "zh-CN": "服务端账号尚未配置完成",
+    "en": "The server account is not configured yet."
+  },
+  "加密连接已更新，请重试": {
+    "zh-CN": "加密连接已更新，请重试",
+    "en": "The encrypted connection changed. Try again."
+  },
+  "加密验证失败，请重新连接或配对；未发送笔记明文": {
+    "zh-CN": "加密验证失败，请重新连接或配对；未发送笔记明文",
+    "en": "Encryption verification failed. Reconnect or pair again. No unencrypted note content was sent."
+  },
+  "语言": {
+    "zh-CN": "语言",
+    "en": "Language"
+  },
+  "跟随系统": {
+    "zh-CN": "跟随系统",
+    "en": "System default"
+  },
+  "%@ 条": {
+    "zh-CN": "%@ 条",
+    "en": "%@ notes"
+  },
+  "编辑笔记：%@": {
+    "zh-CN": "编辑笔记：%@",
+    "en": "Edit note: %@"
+  },
+  "网页 · %@": {
+    "zh-CN": "网页 · %@",
+    "en": "Browser · %@"
+  },
+  "旧笔记迁移未完成，云端未主动清除。%@": {
+    "zh-CN": "旧笔记迁移未完成，云端未主动清除。%@",
+    "en": "Legacy import is incomplete. Cloud copies were not removed. %@"
+  },
+  "YOUR NOTES, WITH YOU": {
+    "zh-CN": "笔记随行",
+    "en": "YOUR NOTES, WITH YOU"
+  },
+  "YOUR PERSONAL SPACE": {
+    "zh-CN": "你的笔记空间",
+    "en": "YOUR PERSONAL SPACE"
+  },
+  "在电脑上打开": {
+    "zh-CN": "在电脑上打开",
+    "en": "Open on your computer"
+  },
+  "复制网站地址": {
+    "zh-CN": "复制网站地址",
+    "en": "Copy website address"
+  },
+  "点击网站顶部的 Note，再用 App 扫描配对二维码。": {
+    "zh-CN": "点击网站顶部的 Note，再用 App 扫描配对二维码。",
+    "en": "Choose Note in the website navigation, then scan the pairing QR code with this app."
+  },
+  "也可以使用自己部署的网站，在下方扫码或设置网址。": {
+    "zh-CN": "也可以使用自己部署的网站，在下方扫码或设置网址。",
+    "en": "You can also use your own deployment. Scan its code or enter its address below."
+  },
+  "扫描官网或自部署网站上的二维码，或粘贴完整配对链接。App 会识别网址，确认后才连接。": {
+    "zh-CN": "扫描官网或自部署网站上的二维码，或粘贴完整配对链接。App 会识别网址，确认后才连接。",
+    "en": "Scan a code from the official website or your own deployment, or paste a full pairing link. The app detects the address and connects after you confirm."
+  },
+  "配对你的设备": {
+    "zh-CN": "配对你的设备",
+    "en": "Pair your device"
+  },
+  "把设备里的笔记，": {
+    "zh-CN": "把设备里的笔记，",
+    "en": "Bring your notes"
+  },
+  "用 iPhone 扫码，或在 Mac 粘贴配对链接。保持已配对的 App 在线，就能在这里阅读和编辑笔记。": {
+    "zh-CN": "用 iPhone 扫码，或在 Mac 粘贴配对链接。保持已配对的 App 在线，就能在这里阅读和编辑笔记。",
+    "en": "Scan with iPhone or paste the pairing link on Mac. Keep the paired app online to read and edit your notes here."
+  },
+  "在 iPhone 或 Mac 打开「接力」": {
+    "zh-CN": "在 iPhone 或 Mac 打开「接力」",
+    "en": "Open NoteBaton on iPhone or Mac"
+  },
+  "点击「配对与同步」，扫码或粘贴完整配对链接": {
+    "zh-CN": "点击「配对与同步」，扫码或粘贴完整配对链接",
+    "en": "Open Pairing & Sync, then scan or paste the full pairing link"
+  },
+  "保持设备在线，最近笔记即刻同步": {
+    "zh-CN": "保持设备在线，最近笔记即刻同步",
+    "en": "Keep the paired device online to sync your latest notes"
+  },
+  "连接你的设备": {
+    "zh-CN": "连接你的设备",
+    "en": "Connect your device"
+  },
+  "确认 App 显示的是此服务网址": {
+    "zh-CN": "确认 App 显示的是此服务网址",
+    "en": "Confirm the app shows this service address"
+  },
+  "复制失败，请扫码，或在 App 填写上方网址和完整配对字符串": {
+    "zh-CN": "复制失败，请扫码，或在 App 填写上方网址和完整配对字符串",
+    "en": "Copy failed. Scan the code or enter the address and full pairing string in the app."
+  },
+  "等待设备确认 · 5 分钟内有效": {
+    "zh-CN": "等待设备确认 · 5 分钟内有效",
+    "en": "Waiting for your device · Expires in 5 minutes"
+  },
+  "已配对设备离线时，可继续阅读本页已同步内容。": {
+    "zh-CN": "已配对设备离线时，可继续阅读本页已同步内容。",
+    "en": "When the paired device is offline, you can still read content loaded on this page."
+  },
+  "已保存到设备": {
+    "zh-CN": "已保存到设备",
+    "en": "Saved to device"
+  },
+  "输入后自动保存到设备": {
+    "zh-CN": "输入后自动保存到设备",
+    "en": "Saves to your device as you type"
+  },
+  "请打开已配对设备的 App 后同步": {
+    "zh-CN": "请打开已配对设备的 App 后同步",
+    "en": "Open the app on the paired device to sync"
+  },
+  "正在保存到设备…": {
+    "zh-CN": "正在保存到设备…",
+    "en": "Saving to device…"
+  },
+  "设备未确认保存": {
+    "zh-CN": "设备未确认保存",
+    "en": "The device has not confirmed the save"
+  },
+  "等待已配对设备上线": {
+    "zh-CN": "等待已配对设备上线",
+    "en": "Waiting for the paired device"
+  },
+  "在已配对设备打开「接力」以同步": {
+    "zh-CN": "在已配对设备打开「接力」以同步",
+    "en": "Open NoteBaton on the paired device to sync"
+  },
+  "已显示的内容仍可阅读。更新、编辑和加载更多需要已配对的 iPhone App 在前台，或 Mac App 保持运行。": {
+    "zh-CN": "已显示的内容仍可阅读。更新、编辑和加载更多需要已配对的 iPhone App 在前台，或 Mac App 保持运行。",
+    "en": "Loaded notes remain readable. To edit or load more, keep the paired iPhone app in the foreground or the Mac app running."
+  },
+  "正在从设备读取…": {
+    "zh-CN": "正在从设备读取…",
+    "en": "Loading from device…"
+  },
+  "在已配对设备复制、输入或粘贴，内容会出现在这里。": {
+    "zh-CN": "在已配对设备复制、输入或粘贴，内容会出现在这里。",
+    "en": "Copy, type, or paste on the paired device. Your notes will appear here."
+  },
+  "端到端加密 · 笔记保存在设备": {
+    "zh-CN": "端到端加密 · 笔记保存在设备",
+    "en": "End-to-end encrypted · Notes stay on your devices"
+  },
+  "扫描或粘贴配对链接": {
+    "zh-CN": "扫描或粘贴配对链接",
+    "en": "Scan or paste a pairing link"
+  },
+  "授权此设备或网页": {
+    "zh-CN": "授权此设备或网页",
+    "en": "Authorize this device or browser"
+  },
+  "授权此设备或网页读取和编辑本机笔记。设备配对会双向合并笔记。": {
+    "zh-CN": "授权此设备或网页读取和编辑本机笔记。设备配对会双向合并笔记。",
+    "en": "Allow this device or browser to read and edit local notes. Device pairing merges both libraries."
+  },
+  "连接后，此服务上已配对的设备和网页可以同步本机笔记。": {
+    "zh-CN": "连接后，此服务上已配对的设备和网页可以同步本机笔记。",
+    "en": "Paired devices and browsers on this service can sync local notes."
+  },
+  "切换将断开当前服务，本机笔记会保留。": {
+    "zh-CN": "切换将断开当前服务，本机笔记会保留。",
+    "en": "Switching disconnects the current service. Local notes are kept."
+  },
+  "已授权的设备与网页": {
+    "zh-CN": "已授权的设备与网页",
+    "en": "Authorized devices and browsers"
+  },
+  "尚无授权设备或网页": {
+    "zh-CN": "尚无授权设备或网页",
+    "en": "No authorized devices or browsers yet"
+  },
+  "移除此设备或网页的访问权限？已同步副本会保留。": {
+    "zh-CN": "移除此设备或网页的访问权限？已同步副本会保留。",
+    "en": "Remove access for this device or browser? Synced copies will remain."
+  },
+  "网页授权后可读取和编辑笔记；设备授权后会双向合并本机笔记。请只确认自己的设备。": {
+    "zh-CN": "网页授权后可读取和编辑笔记；设备授权后会双向合并本机笔记。请只确认自己的设备。",
+    "en": "Browsers can read and edit notes. Native devices merge both local libraries. Only authorize your own devices."
+  },
+  "扫描网页或另一台设备的二维码，也可以粘贴完整配对链接。确认网址后才连接。": {
+    "zh-CN": "扫描网页或另一台设备的二维码，也可以粘贴完整配对链接。确认网址后才连接。",
+    "en": "Scan a browser or device QR code, or paste its full pairing link. Confirm the address before connecting."
+  },
+  "一次连接一个服务。切换不删除本机笔记，各服务授权彼此独立。切回后，未过期配对可继续同步。": {
+    "zh-CN": "一次连接一个服务。切换不删除本机笔记，各服务授权彼此独立。切回后，未过期配对可继续同步。",
+    "en": "Connect to one service at a time. Switching keeps local notes and each service has separate permissions. Unexpired pairings resume when you switch back."
+  },
+  "iPhone 在前台、Mac App 运行时同步。笔记端到端加密，服务只转发密文。配对链接包含密钥，请勿公开。网页授权 7 天、设备授权 1 年有效。": {
+    "zh-CN": "iPhone 在前台、Mac App 运行时同步。笔记端到端加密，服务只转发密文。配对链接包含密钥，请勿公开。网页授权 7 天、设备授权 1 年有效。",
+    "en": "Keep iPhone in the foreground or the Mac app running to sync. Notes are end-to-end encrypted; the relay only forwards ciphertext. Keep pairing links private. Browser access lasts 7 days; device access lasts 1 year."
+  },
+  "笔记保存在本机及已同步的设备。没有云备份，请另行保留重要内容的副本。": {
+    "zh-CN": "笔记保存在本机及已同步的设备。没有云备份，请另行保留重要内容的副本。",
+    "en": "Notes stay on this device and devices you sync with. There is no cloud backup; keep separate copies of important notes."
+  },
+  "文字、链接和 Markdown。\niPhone、Mac 与网页，接着写。": {
+    "zh-CN": "文字、链接和 Markdown。\niPhone、Mac 与网页，接着写。",
+    "en": "Text, links, and Markdown.\nKeep writing across iPhone, Mac, and web."
+  },
+  "笔记保存在本机 · iPhone 在前台时同步": {
+    "zh-CN": "笔记保存在本机 · iPhone 在前台时同步",
+    "en": "Notes stay on this device · Keep iPhone in the foreground to sync"
+  },
+  "删除这条笔记？所有已配对设备也会同步删除。": {
+    "zh-CN": "删除这条笔记？所有已配对设备也会同步删除。",
+    "en": "Delete this note? Deletion will sync to all paired devices."
+  },
+  "剪贴板已保存到本机": {
+    "zh-CN": "剪贴板已保存到本机",
+    "en": "Clipboard saved locally"
+  },
+  "iPhone 在前台时同步": {
+    "zh-CN": "iPhone 在前台时同步",
+    "en": "Keep iPhone in the foreground to sync"
+  },
+  "设备暂未响应，草稿已保留，请打开已配对的 App": {
+    "zh-CN": "设备暂未响应，草稿已保留，请打开已配对的 App",
+    "en": "The device is not responding. Your draft is kept; open the paired app."
+  },
+  "发现配对链接，请到「配对与服务」确认网址": {
+    "zh-CN": "发现配对链接，请到「配对与服务」确认网址",
+    "en": "Pairing link found. Confirm its address in Pairing & Services."
+  },
+  "NoteBaton 接力，让文字、链接和 Markdown 在 iPhone、Mac 与浏览器之间同步。无需注册，原生设备各有本地副本。": {
+    "zh-CN": "NoteBaton 接力，让文字、链接和 Markdown 在 iPhone、Mac 与浏览器之间同步。无需注册，原生设备各有本地副本。",
+    "en": "Sync notes, links, and Markdown across iPhone, Mac, and web. No account required. Each native device keeps a local copy."
+  },
+  "正文保存在已同步的 iPhone 与 Mac。内容在设备上加密，中转服务只转发密文，没有笔记解密密钥。": {
+    "zh-CN": "正文保存在已同步的 iPhone 与 Mac。内容在设备上加密，中转服务只转发密文，没有笔记解密密钥。",
+    "en": "Synced iPhones and Macs store your notes. Content is encrypted on-device; the relay forwards ciphertext without decryption keys."
+  },
+  "界面示意 · 正文保存在你的设备": {
+    "zh-CN": "界面示意 · 正文保存在你的设备",
+    "en": "Interface preview · Notes stay on your devices"
+  },
+  "让已配对的 iPhone App 保持前台，或 Mac App 保持运行，即可在网页阅读和编辑。原生设备间自动同步，支持离线编辑。": {
+    "zh-CN": "让已配对的 iPhone App 保持前台，或 Mac App 保持运行，即可在网页阅读和编辑。原生设备间自动同步，支持离线编辑。",
+    "en": "Keep the paired iPhone app in the foreground or the Mac app running to read and edit on the web. Native devices sync automatically and support offline editing."
+  },
+  "不需要。iPhone 和 Mac 各自保存笔记。网页或新设备展示配对码，由你在已有设备确认授权。": {
+    "zh-CN": "不需要。iPhone 和 Mac 各自保存笔记。网页或新设备展示配对码，由你在已有设备确认授权。",
+    "en": "No. iPhone and Mac each store notes locally. Authorize a browser or new device by confirming its pairing code on an existing device."
+  },
+  "已配对设备离线后，网页还能用吗？": {
+    "zh-CN": "已配对设备离线后，网页还能用吗？",
+    "en": "Does the web app work when its paired device is offline?"
+  },
+  "可以阅读当前页面已加载内容。保存修改和加载更多需要网页配对的设备在线：iPhone App 在前台，或 Mac App 保持运行。未同步网页草稿仅保留在本页。": {
+    "zh-CN": "可以阅读当前页面已加载内容。保存修改和加载更多需要网页配对的设备在线：iPhone App 在前台，或 Mac App 保持运行。未同步网页草稿仅保留在本页。",
+    "en": "You can read notes already loaded on this page. Saving and loading more require the paired device online: iPhone in the foreground, or the Mac app running. Unsynced web drafts stay only on this page."
+  },
+  "只配对可信网站与自己的设备。已配对设备离线时，网页仍可阅读本页已加载的笔记。": {
+    "zh-CN": "只配对可信网站与自己的设备。已配对设备离线时，网页仍可阅读本页已加载的笔记。",
+    "en": "Only pair trusted websites and your own devices. When the paired device is offline, loaded web notes remain readable."
+  },
+  "没有云备份。已同步的原生设备各有副本；若丢失所有副本，笔记无法找回。删除也会传播，请另行备份重要内容。": {
+    "zh-CN": "没有云备份。已同步的原生设备各有副本；若丢失所有副本，笔记无法找回。删除也会传播，请另行备份重要内容。",
+    "en": "There is no cloud backup. Each synced native device has a copy; losing all copies loses the notes. Deletions also propagate, so keep independent backups."
+  },
+  "你的设备": {
+    "zh-CN": "你的设备",
+    "en": "Your devices"
+  },
+  "设备授权，可随时撤销配对": {
+    "zh-CN": "设备授权，可随时撤销配对",
+    "en": "Authorize on-device and revoke pairings anytime"
+  },
+  "设备或网页已配对": {
+    "zh-CN": "设备或网页已配对",
+    "en": "Device or browser paired"
+  },
+  "设备同步数据不正确": {
+    "zh-CN": "设备同步数据不正确",
+    "en": "Invalid device sync data"
+  },
+  "设备配对已失效，请重新配对": {
+    "zh-CN": "设备配对已失效，请重新配对",
+    "en": "Device pairing expired or revoked. Pair again."
+  },
+  "等待另一台设备上线": {
+    "zh-CN": "等待另一台设备上线",
+    "en": "Waiting for the other device"
+  },
+  "请更新另一台设备以支持多设备同步": {
+    "zh-CN": "请更新另一台设备以支持多设备同步",
+    "en": "Update the other app to enable device sync"
+  },
+  "设备连接中断 · 笔记已存本机": {
+    "zh-CN": "设备连接中断 · 笔记已存本机",
+    "en": "Device disconnected · Notes saved locally"
+  },
+  "设备暂未响应": {
+    "zh-CN": "设备暂未响应",
+    "en": "The device has not responded"
+  },
+  "正在同步设备笔记": {
+    "zh-CN": "正在同步设备笔记",
+    "en": "Syncing device notes"
+  },
+  "设备笔记已同步": {
+    "zh-CN": "设备笔记已同步",
+    "en": "Device notes synced"
+  },
+  "同步中断 · 将自动重试": {
+    "zh-CN": "同步中断 · 将自动重试",
+    "en": "Sync interrupted · Retrying automatically"
+  },
+  "此配对不支持设备同步": {
+    "zh-CN": "此配对不支持设备同步",
+    "en": "This pairing cannot replicate device notes"
+  },
+  "请先连接同步服务": {
+    "zh-CN": "请先连接同步服务",
+    "en": "Connect to a sync service first"
+  },
+  "请用另一台设备确认配对": {
+    "zh-CN": "请用另一台设备确认配对",
+    "en": "Confirm pairing on another device"
+  },
+  "设备已配对，正在合并笔记": {
+    "zh-CN": "设备已配对，正在合并笔记",
+    "en": "Device paired. Merging notes."
+  },
+  "无法读取设备配对，请解锁后重试": {
+    "zh-CN": "无法读取设备配对，请解锁后重试",
+    "en": "Unable to read device pairing. Unlock and retry."
+  },
+  "无法保存设备配对，请重试": {
+    "zh-CN": "无法保存设备配对，请重试",
+    "en": "Unable to save device pairing. Please retry."
+  },
+  "请更新服务以支持多设备同步": {
+    "zh-CN": "请更新服务以支持多设备同步",
+    "en": "Update your service to enable device sync"
+  },
+  "在新设备生成配对码，再用已有笔记的 iPhone 或 Mac 扫描或粘贴下方链接。确认后，两台设备的本机笔记会双向合并。": {
+    "zh-CN": "在新设备生成配对码，再用已有笔记的 iPhone 或 Mac 扫描或粘贴下方链接。确认后，两台设备的本机笔记会双向合并。",
+    "en": "Generate a code on the new device. On your existing iPhone or Mac, scan or paste its link and confirm. Both local libraries will merge."
+  },
+  "生成设备配对码": {
+    "zh-CN": "生成设备配对码",
+    "en": "Generate device pairing code"
+  },
+  "设备配对二维码": {
+    "zh-CN": "设备配对二维码",
+    "en": "Device pairing QR code"
+  },
+  "复制设备配对链接": {
+    "zh-CN": "复制设备配对链接",
+    "en": "Copy device pairing link"
+  },
+  "等待另一台设备确认 · 配对码 5 分钟有效": {
+    "zh-CN": "等待另一台设备确认 · 配对码 5 分钟有效",
+    "en": "Waiting for another device · Code expires in 5 minutes"
+  },
+  "设备 · %@": {
+    "zh-CN": "设备 · %@",
+    "en": "Device · %@"
+  },
+  "等待连接": {
+    "zh-CN": "等待连接",
+    "en": "Waiting to connect"
+  },
+  "iPhone 与 Mac 同步": {
+    "zh-CN": "iPhone 与 Mac 同步",
+    "en": "Sync iPhone and Mac"
+  },
+  "设备配对 1 年有效。离线仍可编辑，双方在线后自动补齐。多台设备可分别配对；移除配对不会删除已同步的本机副本。": {
+    "zh-CN": "设备配对 1 年有效。离线仍可编辑，双方在线后自动补齐。多台设备可分别配对；移除配对不会删除已同步的本机副本。",
+    "en": "Device pairing lasts 1 year. Edit offline and catch up when both devices are online. Pair multiple devices separately. Removing a pairing keeps existing local copies."
+  },
+  "移除此设备的同步连接？本机笔记会保留。": {
+    "zh-CN": "移除此设备的同步连接？本机笔记会保留。",
+    "en": "Remove this sync connection? Local notes will remain."
+  },
+  "笔记保存在本机 · 离线也可编辑": {
+    "zh-CN": "笔记保存在本机 · 离线也可编辑",
+    "en": "Notes saved locally · Edit offline"
+  },
+  "iPhone、Mac 与网页，接着写。": {
+    "zh-CN": "iPhone、Mac 与网页，接着写。",
+    "en": "Keep writing across iPhone, Mac, and web."
+  },
+  "导入剪贴板": {
+    "zh-CN": "导入剪贴板",
+    "en": "Import clipboard"
+  },
+  "已保存到本机": {
+    "zh-CN": "已保存到本机",
+    "en": "Saved locally"
+  },
+  "macOS 安装说明": {
+    "zh-CN": "macOS 安装说明",
+    "en": "macOS setup guide"
+  },
+  "下载 macOS 版": {
+    "zh-CN": "下载 macOS 版",
+    "en": "Download for macOS"
+  },
+  "macOS 14 或更高版本 · Developer ID 签名 · 尚未经过 Apple 公证": {
+    "zh-CN": "macOS 14 或更高版本 · Developer ID 签名 · 尚未经过 Apple 公证",
+    "en": "macOS 14 or later · Developer ID signed · Not yet notarized by Apple"
+  },
+  "打开 App 时会读取剪贴板，相同内容不会重复保存。系统可能会询问粘贴权限。": {
+    "zh-CN": "打开 App 时会读取剪贴板，相同内容不会重复保存。系统可能会询问粘贴权限。",
+    "en": "The app checks the clipboard when activated and skips duplicate text. Your system may ask for paste permission."
+  },
+  "点击网站顶部的 Note，再用 App 扫码或粘贴配对链接。": {
+    "zh-CN": "点击网站顶部的 Note，再用 App 扫码或粘贴配对链接。",
+    "en": "Choose Note on the website, then scan its code or paste the pairing link in the app."
+  },
+  "1. 打开网页版": {
+    "zh-CN": "1. 打开网页版",
+    "en": "1. Open the website"
+  },
+  "2. 粘贴配对链接": {
+    "zh-CN": "2. 粘贴配对链接",
+    "en": "2. Paste a pairing link"
+  },
+  "确认网址后，即可开始同步。": {
+    "zh-CN": "确认网址后，即可开始同步。",
+    "en": "Confirm the address to start syncing."
+  },
+  "连接另一台 iPhone 或 Mac": {
+    "zh-CN": "连接另一台 iPhone 或 Mac",
+    "en": "Connect another iPhone or Mac"
+  },
+  "高级设置": {
+    "zh-CN": "高级设置",
+    "en": "Advanced settings"
+  },
+  "自定义服务、已配对设备与更多选项": {
+    "zh-CN": "自定义服务、已配对设备与更多选项",
+    "en": "Custom services, paired devices, and more"
+  },
+  "配对与同步": {
+    "zh-CN": "配对与同步",
+    "en": "Pairing & Sync"
+  },
+  "关闭": {
+    "zh-CN": "关闭",
+    "en": "Close"
+  },
+  "粘贴网页或另一台设备的完整配对链接": {
+    "zh-CN": "粘贴网页或另一台设备的完整配对链接",
+    "en": "Paste the full pairing link from the website or another device"
+  },
+  "配对链接": {
+    "zh-CN": "配对链接",
+    "en": "Pairing link"
+  },
+  "自定义同步服务": {
+    "zh-CN": "自定义同步服务",
+    "en": "Custom sync service"
+  },
+  "完整配对链接已包含网址，通常无需填写。": {
+    "zh-CN": "完整配对链接已包含网址，通常无需填写。",
+    "en": "A full pairing link already includes the address. You can usually leave this empty."
+  },
+  "在浏览器中打开": {
+    "zh-CN": "在浏览器中打开",
+    "en": "Open in browser"
+  },
+  "在网站中选择 Note，复制配对链接后回到这里。": {
+    "zh-CN": "在网站中选择 Note，复制配对链接后回到这里。",
+    "en": "Choose Note on the website, then copy its pairing link and return here."
+  },
+  "在这台设备生成配对码，再用另一台设备扫码或粘贴链接。两边的笔记会合并。": {
+    "zh-CN": "在这台设备生成配对码，再用另一台设备扫码或粘贴链接。两边的笔记会合并。",
+    "en": "Generate a code here, then scan it or paste its link on your other device. Both note libraries will merge."
+  },
+  "生成本机配对码": {
+    "zh-CN": "生成本机配对码",
+    "en": "Generate a code for this device"
+  },
+  "连接并生成配对码": {
+    "zh-CN": "连接并生成配对码",
+    "en": "Connect and generate code"
+  },
+  "连接此服务后会生成本机配对码，再用另一台设备确认。": {
+    "zh-CN": "连接此服务后会生成本机配对码，再用另一台设备确认。",
+    "en": "Connect to this service to generate a pairing code, then confirm it on your other device."
+  },
+  "已展开": {
+    "zh-CN": "已展开",
+    "en": "Expanded"
+  },
+  "已收起": {
+    "zh-CN": "已收起",
+    "en": "Collapsed"
+  },
+  "发现配对链接，请到「配对与同步」确认网址": {
+    "zh-CN": "发现配对链接，请到「配对与同步」确认网址",
+    "en": "Pairing link found. Confirm its address in Pairing & Sync."
+  },
+  "打开 NoteBaton": {
+    "zh-CN": "打开 NoteBaton",
+    "en": "Open NoteBaton"
+  },
+  "退出 NoteBaton": {
+    "zh-CN": "退出 NoteBaton",
+    "en": "Quit NoteBaton"
+  }
+}

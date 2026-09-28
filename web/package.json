@@ -1,0 +1,53 @@
+{
+  "name": "relay-clipboard",
+  "version": "3.2.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "dev:api": "wrangler dev --ip 127.0.0.1 --port 8787",
+    "build": "npm run build:notices && vite build",
+    "typecheck": "tsc --noEmit && tsc -p tsconfig.worker.json --noEmit",
+    "cf:typegen": "wrangler types --env-file .dev.vars.example && node scripts/normalize-types.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "deploy": "node scripts/deploy.mjs",
+    "build:markdown": "node scripts/build-markdown.mjs",
+    "build:notices": "node scripts/build-notices.mjs",
+    "build:legal": "node scripts/build-legal.mjs",
+    "check:legal": "node scripts/build-legal.mjs --check",
+    "check:legal:release": "node scripts/build-legal.mjs --check --require-contact",
+    "check:notices": "node scripts/build-notices.mjs --check",
+    "build:locales": "node scripts/build-locales.mjs",
+    "check:locales": "node scripts/build-locales.mjs --check",
+    "build:site": "npm run build:notices && npm run build:legal && vite build --mode site",
+    "build:app-resources": "npm run build:locales && npm run build:notices && npm run build:markdown && npm run build:legal",
+    "dev:site": "vite --mode site --host 127.0.0.1",
+    "dev:api:site": "wrangler dev --config wrangler.site.jsonc --ip 127.0.0.1 --port 8787",
+    "deploy:site": "node scripts/deploy.mjs --site"
+  },
+  "dependencies": {
+    "lucide-react": "^1.48.0",
+    "markdown-it": "^15.0.2",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260925.1",
+    "@types/markdown-it": "^14.2.0",
+    "@types/node": "^26.6.2",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1",
+    "wrangler": "^4.139.0",
+    "ws": "^8.21.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

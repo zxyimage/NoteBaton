@@ -1,0 +1,121 @@
+{
+  "valid": [
+    {
+      "input": "https://one.example/pair#v=2&code=RLY-ABCD-1234-5678-90EF&key=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+      "manual": "https://ignored.example",
+      "server": "https://one.example",
+      "code": "RLY-ABCD-1234-5678-90EF",
+      "key": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+    },
+    {
+      "input": "HTTPS://TWO.EXAMPLE:443/pair#code=RLY-abcd-1234-5678-90ef&v=2&key=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+      "manual": "",
+      "server": "https://two.example",
+      "code": "RLY-ABCD-1234-5678-90EF",
+      "key": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+    },
+    {
+      "input": "RLY-ABCD-1234-5678-90EF.0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+      "manual": " https://custom.example:8443/ ",
+      "server": "https://custom.example:8443",
+      "code": "RLY-ABCD-1234-5678-90EF",
+      "key": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+    },
+    {
+      "input": "",
+      "manual": "https://solo.example/",
+      "server": "https://solo.example",
+      "code": null
+    }
+  ],
+  "invalid": [
+    {
+      "input": "RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=2&code=RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=1&code=RLY-ABCD-1234-5678-90EF&code=RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=1&code=RLY-ABCD-1234-5678-90EF&extra=1",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair?redirect=https://other.example#v=1&code=RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "https://user:pass@one.example/pair#v=1&code=RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "http://one.example/pair#v=1&code=RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/wrong#v=1&code=RLY-ABCD-1234-5678-90EF",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=1&code=%ZZ",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=1&code=%25",
+      "manual": ""
+    },
+    {
+      "input": "",
+      "manual": "https://one.example/api"
+    },
+    {
+      "input": "",
+      "manual": "https://one.example?x=1"
+    },
+    {
+      "input": "",
+      "manual": "https://one.example#x"
+    },
+    {
+      "input": "",
+      "manual": "https://one.example:99999"
+    },
+    {
+      "input": "",
+      "manual": "javascript:alert(1)"
+    },
+    {
+      "input": "",
+      "manual": "https://one.example\\@other.example"
+    },
+    {
+      "input": "https://one.example/pair#v=1&code=RLY-ABCD-1234-5678-90EF",
+      "manual": "https://ignored.example"
+    },
+    {
+      "input": "HTTPS://TWO.EXAMPLE:443/pair#code=RLY-abcd-1234-5678-90ef&v=1",
+      "manual": ""
+    },
+    {
+      "input": "RLY-ABCD-1234-5678-90EF",
+      "manual": " https://custom.example:8443/ "
+    },
+    {
+      "input": "https://one.example/pair#v=2&code=RLY-ABCD-1234-5678-90EF&key=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef&key=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=2&code=RLY-ABCD-1234-5678-90EF&key=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef&extra=1",
+      "manual": ""
+    },
+    {
+      "input": "https://one.example/pair#v=2&code=RLY-ABCD-1234-5678-90EF&key=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdeZ",
+      "manual": ""
+    }
+  ]
+}
