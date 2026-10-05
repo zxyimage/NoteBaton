@@ -43,7 +43,7 @@
     "@vitejs/plugin-react": "^6.1.1",
     "esbuild": "^0.28.2",
     "typescript": "^7.0.2",
-    "vite": "^8.3.1",
+    "vite": "^8.3.2",
     "wrangler": "^4.139.0",
     "ws": "^8.21.3"
   },
